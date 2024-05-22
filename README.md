@@ -1,2 +1,10 @@
-# Scrap-forum-FastAPI
-forum.criminal.ist web scrapping &amp; fastapi implementation
+# Парсинг тем и комментариев с [forum.criminal.ist](https://forum.criminal.ist/)
+# Сохранение резултьтатов в базу данных sqlite sqlalchemy
+# Имитированный бекэнд форума с помощью FastAPI 
+
+scrap_forum.py - парсинг сайта, создание и заполнение базы данных
+route.py - маршруты fastapi 
+models.py - классы таблиц БД
+crud.py - CRUD
+schemas.py - схемы pydantic
+fastapi_tests - тесты fastapi
