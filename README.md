@@ -1,5 +1,5 @@
 # Парсинг тем и комментариев с [forum.criminal.ist](https://forum.criminal.ist/)
-# Сохранение резултьтатов в базу данных sqlite sqlalchemy
+# Сохранение результатов в базу данных sqlite sqlalchemy
 # Имитированный бекэнд форума с помощью FastAPI 
 
 scrap_forum.py - парсинг сайта, создание и заполнение базы данных  
